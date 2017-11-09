@@ -42,3 +42,5 @@
 *.lastbuildstate
 *.tlog
 *.log
+*.pdb
+*.pdb
