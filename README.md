@@ -1,2 +1,2 @@
 # ohjelmointitekniikka
-XAMK / Programming Tech Course
+XAMK University of Applied Science / Programming Tech Course

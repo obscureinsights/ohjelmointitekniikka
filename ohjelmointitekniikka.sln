@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_amount_of_numbers_and_th
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_positive_integers_intmax_and_range", "09_positive_integers_intmax_and_range\09_positive_integers_intmax_and_range.vcxproj", "{DFF30F00-6225-447F-A56A-41847F677539}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_time_task", "10_time_task\10_time_task.vcxproj", "{A8DB22C8-8512-4801-8461-8F7EB1837437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{DFF30F00-6225-447F-A56A-41847F677539}.Release|x64.Build.0 = Release|x64
 		{DFF30F00-6225-447F-A56A-41847F677539}.Release|x86.ActiveCfg = Release|Win32
 		{DFF30F00-6225-447F-A56A-41847F677539}.Release|x86.Build.0 = Release|Win32
+		{A8DB22C8-8512-4801-8461-8F7EB1837437}.Debug|x64.ActiveCfg = Debug|x64
+		{A8DB22C8-8512-4801-8461-8F7EB1837437}.Debug|x64.Build.0 = Debug|x64
+		{A8DB22C8-8512-4801-8461-8F7EB1837437}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8DB22C8-8512-4801-8461-8F7EB1837437}.Debug|x86.Build.0 = Debug|Win32
+		{A8DB22C8-8512-4801-8461-8F7EB1837437}.Release|x64.ActiveCfg = Release|x64
+		{A8DB22C8-8512-4801-8461-8F7EB1837437}.Release|x64.Build.0 = Release|x64
+		{A8DB22C8-8512-4801-8461-8F7EB1837437}.Release|x86.ActiveCfg = Release|Win32
+		{A8DB22C8-8512-4801-8461-8F7EB1837437}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
