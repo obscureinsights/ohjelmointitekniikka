@@ -35,3 +35,10 @@
 /Release
 /01_value_between_01/Release/01_value.6120376E.tlog
 /01_value_between_01/Release/01_value_between_01.log
+/01_value_between_01/Release
+/02_value_between_02/Release
+/03_value_between_03/Release
+/04_value_between_04/Release
+*.lastbuildstate
+*.tlog
+*.log
