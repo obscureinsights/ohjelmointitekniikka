@@ -25,6 +25,6 @@ int main( void )
 		std::cout << str_buffer.str() << " which is not between 1-" << highval << std::endl;
 	else
 		std::cout << str_buffer.str();
-
+	
 	return EXIT_SUCCESS;
 }

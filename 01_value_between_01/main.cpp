@@ -22,6 +22,6 @@ int main( void )
 		std::cout << str_buffer.str() << "which is larger than 10" << std::endl;
 	else 
 		std::cout << str_buffer.str() << "which is not smaller than 1 or larger than 10" << std::endl;
-
+	
 	return EXIT_SUCCESS;
 }
