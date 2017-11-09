@@ -46,4 +46,6 @@ int main( void )
 		if (count > 0)
 			std::cout << "You have given " << count << " numbers and their sum is: " << sum << std::endl;
 	}
+
+	return EXIT_SUCCESS;
 }
