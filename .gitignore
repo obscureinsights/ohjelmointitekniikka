@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/ohjelmointitekniikka.VC.db
+/ohjelmointitekniikka.VC.VC.opendb
+/Release
+/01_value_between_01/Release/01_value.6120376E.tlog
+/01_value_between_01/Release/01_value_between_01.log
