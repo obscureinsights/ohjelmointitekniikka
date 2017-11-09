@@ -46,7 +46,7 @@ retval_t is_valid( const int &in )
 
 retval_t request_input( int &in )
 {
-	std::cout << "Anna kokonaisluku (>=0)" << std::endl;
+	std::cout << "Input a positive integer (>=0)" << std::endl;
 	std::cin >> in;
 
 	if (std::cin.fail())
