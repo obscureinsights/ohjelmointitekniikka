@@ -48,7 +48,6 @@ int main(void)
 			break;
 	}while( num_found != 0 );
 	
-
 	system("pause");
 
 	return EXIT_SUCCESS;

@@ -47,3 +47,4 @@
 /.vs/ohjelmointitekniikka/v15
 /.vs/slnx.sqlite
 /x64/Release
+*.json
