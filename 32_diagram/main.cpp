@@ -58,7 +58,7 @@ int main( void )
 			std::cout << std::endl << std::endl;
 			std::cout << "Again? Enter Y/y, otherwise exit program" << std::endl;
 			std::getline( std::cin, user_inp );
-		}
+		} 
 
 		if (user_inp == "Y" || user_inp == "y")
 			continue;
