@@ -53,7 +53,7 @@ int main( void )
 
 		std::string user_inp;
 		
-		while (user_inp.empty())
+		while ( user_inp.empty() )
 		{
 			std::cout << std::endl << std::endl;
 			std::cout << "Again? Enter Y/y, otherwise exit program" << std::endl;
