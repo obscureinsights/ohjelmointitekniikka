@@ -21,7 +21,7 @@ int main(void)
 			std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 		}
 
-		std::cout << "Please input index to replace in array from 0 ... 9: ";
+		std::cout << "Please input index to insert new number into array from 0 ... 9: ";
 		while (!(std::cin >> index) || std::cin.fail() || index < 0 || index > 10)
 		{
 			std::cout << std::endl;
