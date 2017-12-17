@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "33_arrays_range_duplicate_s
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34_draw_5x5_board_change_vals", "34_draw_5x5_board_change_vals\34_draw_5x5_board_change_vals.vcxproj", "{8440F8BB-1E88-44B5-A3A2-BDA36B997E01}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35_functions_01", "35_functions_01\35_functions_01.vcxproj", "{457E8F70-D408-4D72-96C2-B717EDE3713F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{8440F8BB-1E88-44B5-A3A2-BDA36B997E01}.Release|x64.Build.0 = Release|x64
 		{8440F8BB-1E88-44B5-A3A2-BDA36B997E01}.Release|x86.ActiveCfg = Release|Win32
 		{8440F8BB-1E88-44B5-A3A2-BDA36B997E01}.Release|x86.Build.0 = Release|Win32
+		{457E8F70-D408-4D72-96C2-B717EDE3713F}.Debug|x64.ActiveCfg = Debug|x64
+		{457E8F70-D408-4D72-96C2-B717EDE3713F}.Debug|x64.Build.0 = Debug|x64
+		{457E8F70-D408-4D72-96C2-B717EDE3713F}.Debug|x86.ActiveCfg = Debug|Win32
+		{457E8F70-D408-4D72-96C2-B717EDE3713F}.Debug|x86.Build.0 = Debug|Win32
+		{457E8F70-D408-4D72-96C2-B717EDE3713F}.Release|x64.ActiveCfg = Release|x64
+		{457E8F70-D408-4D72-96C2-B717EDE3713F}.Release|x64.Build.0 = Release|x64
+		{457E8F70-D408-4D72-96C2-B717EDE3713F}.Release|x86.ActiveCfg = Release|Win32
+		{457E8F70-D408-4D72-96C2-B717EDE3713F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
