@@ -18,6 +18,9 @@ int find_largest( int num_arr[], int &largest )
 			hi_num = num_arr[i];
 		}
 	}
+
+	largest = hi_num;
+
 	return hi_idx;
 }
 
